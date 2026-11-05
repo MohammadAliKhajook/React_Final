@@ -1,3 +1,4 @@
+import { API_URL } from "../../../../api.js";
 import { useEffect, useState } from "react";
 import { Link, useParams } from "react-router-dom";
 import axios from "axios";
@@ -17,7 +18,7 @@ const Show = () => {
       setNotFound(false);
 
       try {
-        const res = await axios.get(`http://localhost:3000/products/${id}`);
+        const res = await axios.get(`${API_URL}/products/${id}`);
 
         if (!res.data || !res.data.id) {
           setNotFound(true);

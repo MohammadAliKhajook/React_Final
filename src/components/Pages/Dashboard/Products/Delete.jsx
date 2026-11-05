@@ -1,3 +1,4 @@
+import { API_URL } from "../../../../api.js";
 import axios from "axios";
 
 const Delete = ({ id, onDelete }) => {
@@ -7,7 +8,7 @@ const Delete = ({ id, onDelete }) => {
     if (!confirmDelete) return;
 
     try {
-      await axios.delete(`http://localhost:3000/products/${id}`);
+      await axios.delete(`${API_URL}/products/${id}`);
 
       onDelete(id);
     } catch (error) {

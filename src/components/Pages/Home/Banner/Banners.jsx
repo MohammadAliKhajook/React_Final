@@ -1,3 +1,4 @@
+import { API_URL } from "../../../../api.js";
 import { useEffect, useState } from "react";
 
 const Banners = () => {
@@ -5,7 +6,7 @@ const Banners = () => {
 
   const fetchBanners = async () => {
     try {
-      const response = await fetch("http://localhost:3000/banners");
+      const response = await fetch(`${API_URL}/banners`);
       const data = await response.json();
 
       setBanners(data);

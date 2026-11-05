@@ -1,3 +1,4 @@
+import { API_URL } from "../../../api.js";
 import Footer from "../../Footer/Footer";
 import useFetch from "../Hooks/Hooks";
 import AmazingOffers from "./AmazingOffer/AmazingOffer";
@@ -13,7 +14,7 @@ import Slider from "./Slider/Slider";
 
 const Home = () => {
   const { data: vitamins, loading } = useFetch(
-    "http://localhost:3000/vitamins",
+    `${API_URL}/vitamins`,
   );
   return (
     <>

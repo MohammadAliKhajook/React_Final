@@ -1,3 +1,4 @@
+import { API_URL } from "../../../../api.js";
 import { useEffect, useState } from "react";
 import { FaEllipsisH } from "react-icons/fa";
 
@@ -6,7 +7,7 @@ const Services = () => {
 
   const fetchServices = async () => {
     try {
-      const response = await fetch("http://localhost:3000/services");
+      const response = await fetch(`${API_URL}/services`);
       const data = await response.json();
 
       setServices(data);

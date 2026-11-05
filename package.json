@@ -11,9 +11,12 @@
     "server": "json-server --watch db.json --port 3000"
   },
   "dependencies": {
+    "@netlify/database": "^2.0.1",
+    "@netlify/functions": "^6.1.0",
     "@reduxjs/toolkit": "^2.14.0",
     "@tailwindcss/vite": "^4.3.4",
     "axios": "^1.21.0",
+    "drizzle-orm": "^1.0.0-beta.22",
     "json-server": "^1.0.0-beta.15",
     "react": "^19.3.1",
     "react-dom": "^19.3.1",
@@ -28,6 +31,7 @@
     "@rolldown/plugin-babel": "^0.3.0",
     "@vitejs/plugin-react": "^6.2.1",
     "babel-plugin-react-compiler": "^1.0.0",
-    "daisyui": "^5.7.50"
+    "daisyui": "^5.7.50",
+    "drizzle-kit": "^1.0.0-beta.22"
   }
 }

@@ -1,3 +1,4 @@
+import { API_URL } from "../../../../api.js";
 import axios from "axios";
 import { useNavigate } from "react-router-dom";
 import ProductForm from "./ProductForm";
@@ -7,7 +8,7 @@ const Create = () => {
 
   const createProduct = async (data) => {
     try {
-      await axios.post("http://localhost:3000/products", data);
+      await axios.post(`${API_URL}/products`, data);
       navigate("/dashboard/products");
     } catch (error) {
       console.log(error.message);
