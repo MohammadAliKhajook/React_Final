@@ -1,0 +1,33 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+@font-face {
+  font-family: "Vazir-Regular";
+  src: url("./assets/fonts/Vazirmatn-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Vazir-Medium";
+  src: url("./assets/fonts/Vazirmatn-Medium.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Vazir-Bold";
+  src: url("./assets/fonts/Vazirmatn-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Vazir-Black";
+  src: url("./assets/fonts/Vazirmatn-Black.ttf") format("truetype");
+}
+
+@theme {
+  --font-vazir-regular: "Vazir-Regular";
+  --font-vazir-medium: "Vazir-Medium";
+  --font-vazir-bold: "Vazir-Bold";
+  --font-vazir-black: "Vazir-Black";
+}
+
+body {
+  font-family: "Vazir-Regular", sans-serif;
+}

@@ -1,0 +1,2006 @@
+{
+  "menu": [
+    {
+      "id": "1",
+      "title": "موبایل",
+      "icon": "FaMobileAlt",
+      "columns": [
+        {
+          "title": "انتخاب موبایل",
+          "groups": [
+            {
+              "heading": "برندهای محبوب",
+              "items": [
+                "گوشی سامسونگ",
+                "گوشی اپل",
+                "گوشی شیائومی",
+                "گوشی پوکو",
+                "گوشی نوکیا"
+              ]
+            },
+            {
+              "heading": "براساس قیمت",
+              "items": [
+                "گوشی تا ۵ میلیون",
+                "گوشی تا ۱۰ میلیون",
+                "گوشی تا ۲۰ میلیون",
+                "گوشی تا ۳۰ میلیون"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "لوازم جانبی موبایل",
+          "groups": [
+            {
+              "heading": "لوازم جانبی",
+              "items": [
+                "قاب گوشی",
+                "گلس گوشی",
+                "شارژر",
+                "کابل شارژ",
+                "پاوربانک",
+                "هندزفری"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "گوشی براساس کاربرد",
+          "groups": [
+            {
+              "heading": "انواع گوشی",
+              "items": [
+                "گوشی گیمینگ",
+                "گوشی اقتصادی",
+                "گوشی پرچمدار",
+                "گوشی میان‌رده"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "لپ تاپ",
+      "icon": "FaLaptop",
+      "columns": [
+        {
+          "title": "انتخاب لپ تاپ",
+          "groups": [
+            {
+              "heading": "لپ تاپ ایسوس",
+              "items": [
+                "لپ تاپ vivobook",
+                "لپ تاپ Zenbook",
+                "لپ تاپ TUF Gaming",
+                "لپ تاپ ROG"
+              ]
+            },
+            {
+              "heading": "لپ تاپ لنوو",
+              "items": [
+                "لپ تاپ v15",
+                "لپ تاپ ideapad 1",
+                "لپ تاپ ideapad slim 3",
+                "لپ تاپ thinkpad"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "لپ تاپ گیمینگ",
+          "groups": [
+            {
+              "heading": null,
+              "items": [
+                "لپ تاپ گیمینگ ایسوس",
+                "لپ تاپ گیمینگ لنوو",
+                "لپ تاپ گیمینگ acer",
+                "لپ تاپ گیمینگ hp",
+                "لپ تاپ گیمینگ msi"
+              ]
+            },
+            {
+              "heading": "براساس مدل کارت گرافیک",
+              "items": [
+                "rtx 2050",
+                "rtx 3050",
+                "rtx 4050",
+                "rtx 4060"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "قیمت لپ تاپ",
+          "groups": [
+            {
+              "heading": null,
+              "items": [
+                "لپ تاپ تا ۷۰ میلیون",
+                "لپ تاپ تا ۸۰ میلیون",
+                "لپ تاپ تا ۹۰ میلیون",
+                "لپ تاپ تا ۱۰۰ میلیون",
+                "لپ تاپ تا ۱۲۰ میلیون",
+                "لپ تاپ تا ۱۵۰ میلیون",
+                "لپ تاپ تا ۲۰۰ میلیون"
+              ]
+            },
+            {
+              "heading": "براساس کاربری",
+              "items": [
+                "لپ تاپ دانشجویی",
+                "لپ تاپ گیمینگ"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "کالای دیجیتال",
+      "icon": "FaHeadphones",
+      "columns": [
+        {
+          "title": "کالای دیجیتال",
+          "groups": [
+            {
+              "heading": "لوازم دیجیتال",
+              "items": [
+                "هدفون و هندزفری",
+                "ساعت هوشمند",
+                "تبلت",
+                "دوربین",
+                "اسپیکر",
+                "کنسول بازی"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "کامپیوتر",
+          "groups": [
+            {
+              "heading": "قطعات کامپیوتر",
+              "items": [
+                "مانیتور",
+                "کیبورد",
+                "ماوس",
+                "کارت گرافیک",
+                "حافظه SSD",
+                "هارد اکسترنال"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "لوازم جانبی",
+          "groups": [
+            {
+              "heading": "تجهیزات دیجیتال",
+              "items": [
+                "شارژر",
+                "کابل",
+                "هاب USB",
+                "پایه نگهدارنده",
+                "وب کم"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "لوازم خانگی برقی",
+      "icon": "FaBlender",
+      "columns": [
+        {
+          "title": "لوازم خانگی",
+          "groups": [
+            {
+              "heading": "لوازم بزرگ",
+              "items": [
+                "یخچال",
+                "ماشین لباسشویی",
+                "ماشین ظرفشویی",
+                "تلویزیون",
+                "کولر گازی"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "لوازم کوچک",
+          "groups": [
+            {
+              "heading": "لوازم آشپزخانه",
+              "items": [
+                "جاروبرقی",
+                "چای ساز",
+                "قهوه ساز",
+                "مایکروویو",
+                "سرخ کن",
+                "آبمیوه گیری"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "لوازم سرمایشی و گرمایشی",
+          "groups": [
+            {
+              "heading": "تهویه و گرمایش",
+              "items": [
+                "پنکه",
+                "بخاری",
+                "هیتر",
+                "تصفیه هوا"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "محصولات بومی و محلی",
+      "icon": "FaLeaf",
+      "columns": [
+        {
+          "title": "مواد غذایی ارگانیک",
+          "groups": [
+            {
+              "heading": "خوراکی محلی",
+              "items": [
+                "برنج محلی",
+                "روغن محلی",
+                "عسل طبیعی",
+                "خرمای محلی",
+                "حلوا شکری"
+              ]
+            },
+            {
+              "heading": "کیک و شیرینی خانگی",
+              "items": [
+                "شیرینی خانگی",
+                "کیک و کلوچه محلی",
+                "نان محلی"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "خشکبار و آجیل سنتی",
+          "groups": [
+            {
+              "heading": "غلات و حبوبات ارگانیک",
+              "items": [
+                "آجیل سنتی",
+                "خرمای محلی",
+                "غلات ارگانیک",
+                "حبوبات محلی"
+              ]
+            },
+            {
+              "heading": "ادویه و چاشنی ارگانیک",
+              "items": [
+                "ادویه‌های ارگانیک",
+                "زعفران",
+                "چاشنی محلی"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "صنایع دستی و سوغات",
+          "groups": [
+            {
+              "heading": "سوغات سنتی",
+              "items": [
+                "گز",
+                "سوهان",
+                "نبات",
+                "قطاب",
+                "باسلوق"
+              ]
+            },
+            {
+              "heading": "صنایع دستی",
+              "items": [
+                "ظروف سنتی",
+                "گلیم",
+                "میناکاری",
+                "محصولات دست‌ساز"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "خانه و آشپزخانه",
+      "icon": "FaHome",
+      "columns": [
+        {
+          "title": "خانه و آشپزخانه",
+          "groups": [
+            {
+              "heading": "لوازم خانه",
+              "items": [
+                "مبلمان",
+                "دکوراسیون",
+                "فرش",
+                "روشنایی",
+                "پرده"
+              ]
+            },
+            {
+              "heading": "لوازم خواب",
+              "items": [
+                "تشک",
+                "بالش",
+                "روتختی",
+                "پتو"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "آشپزخانه",
+          "groups": [
+            {
+              "heading": "لوازم آشپزخانه",
+              "items": [
+                "ظروف",
+                "قابلمه",
+                "سرویس غذاخوری",
+                "ابزار آشپزی",
+                "لیوان و ماگ"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "دکوراسیون",
+          "groups": [
+            {
+              "heading": "تزئینات خانه",
+              "items": [
+                "ساعت دیواری",
+                "گلدان",
+                "تابلو",
+                "آینه",
+                "شمع"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "آرایشی بهداشتی",
+      "icon": "FaPaintBrush",
+      "columns": [
+        {
+          "title": "آرایشی و بهداشتی",
+          "groups": [
+            {
+              "heading": "محصولات آرایشی",
+              "items": [
+                "آرایش صورت",
+                "آرایش چشم",
+                "آرایش لب",
+                "عطر و ادکلن",
+                "لوازم آرایشی"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "مراقبت شخصی",
+          "groups": [
+            {
+              "heading": "مراقبت پوست و مو",
+              "items": [
+                "مراقبت پوست",
+                "مراقبت مو",
+                "شامپو",
+                "ضد آفتاب",
+                "ماسک صورت"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "بهداشت",
+          "groups": [
+            {
+              "heading": "محصولات بهداشتی",
+              "items": [
+                "مسواک",
+                "خمیر دندان",
+                "محصولات اصلاح",
+                "دستمال کاغذی"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "مد و پوشاک",
+      "icon": "FaTshirt",
+      "columns": [
+        {
+          "title": "پوشاک",
+          "groups": [
+            {
+              "heading": "پوشاک مردانه",
+              "items": [
+                "تی شرت",
+                "شلوار",
+                "کفش",
+                "لباس ورزشی",
+                "پیراهن"
+              ]
+            },
+            {
+              "heading": "پوشاک زنانه",
+              "items": [
+                "مانتو",
+                "شومیز",
+                "شلوار",
+                "کفش",
+                "لباس مجلسی"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "کیف و کفش",
+          "groups": [
+            {
+              "heading": "انواع کیف",
+              "items": [
+                "کیف دستی",
+                "کیف دوشی",
+                "کوله پشتی",
+                "کیف پول"
+              ]
+            },
+            {
+              "heading": "انواع کفش",
+              "items": [
+                "کفش روزمره",
+                "کفش رسمی",
+                "کفش ورزشی",
+                "صندل"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "اکسسوری",
+          "groups": [
+            {
+              "heading": "زیورآلات و اکسسوری",
+              "items": [
+                "ساعت",
+                "عینک",
+                "کمربند",
+                "کلاه",
+                "شال و روسری"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "title": "طلا و نقره",
+      "icon": "FaGem",
+      "columns": [
+        {
+          "title": "طلا و نقره",
+          "groups": [
+            {
+              "heading": "محصولات طلا",
+              "items": [
+                "طلای زینتی",
+                "شمش طلا",
+                "سکه طلا",
+                "پلاک طلا"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "زیورآلات",
+          "groups": [
+            {
+              "heading": "محصولات نقره",
+              "items": [
+                "زیورآلات نقره",
+                "انگشتر نقره",
+                "گردنبند نقره",
+                "دستبند نقره"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "title": "خودرو و موتورسیکلت",
+      "icon": "FaCar",
+      "columns": [
+        {
+          "title": "خودرو",
+          "groups": [
+            {
+              "heading": "لوازم خودرو",
+              "items": [
+                "لوازم یدکی",
+                "لوازم جانبی",
+                "روغن موتور",
+                "تجهیزات خودرو",
+                "باتری خودرو"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "موتورسیکلت",
+          "groups": [
+            {
+              "heading": "لوازم موتورسیکلت",
+              "items": [
+                "لوازم یدکی موتور",
+                "کلاه ایمنی",
+                "روغن موتور",
+                "تجهیزات موتور"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "slider": [
+    {
+      "id": "1",
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/8226e6c1be4ec4be803802831bcf8cd052c56865_1792601007.jpg?x-oss-process=image/quality,q_80/format,webp"
+    },
+    {
+      "id": "2",
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/5d7fa3ec6b2690c6a23696cdcb4c7c65e4b61b16_1793191675.jpg?x-oss-process=image/quality,q_80/format,webp"
+    },
+    {
+      "id": "3",
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/4fa2bad30958031215a123144cbaee0e4bc224be_1791734996.jpg?x-oss-process=image/quality,q_80/format,webp"
+    },
+    {
+      "id": "4",
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/3e8032765083763964c72fe8e634152ac337a7e4_1793223923.jpg?x-oss-process=image/quality,q_80/format,webp"
+    },
+    {
+      "id": "5",
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/1892dc121b9dd8b78f7e13320bc7d69e3984dc04_1793540678.jpg?x-oss-process=image/quality,q_80/format,webp"
+    },
+    {
+      "id": "6",
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/249adcadebf039d6e4ef5bb396531123360333a7_1793551192.gif?x-oss-process=image/resize,w_1920/format,webp"
+    },
+    {
+      "id": "7",
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/0be0a2bff2bdee49a0d4b449175282d245baeca9_1793194794.jpg?x-oss-process=image/quality,q_80/format,webp"
+    },
+    {
+      "id": "8",
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/8a028ab45a49af0ce992fbf270822629c632f3ac_1793191058.jpg?x-oss-process=image/quality,q_80/format,webp"
+    },
+    {
+      "id": "9",
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/84eb6b273c1cf452095bf070b147deb9870bdc04_1793191463.jpg?x-oss-process=image/quality,q_80/format,webp"
+    },
+    {
+      "id": "10",
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/0e3e71f1185b17a35038a5af189066dcb65d4fc9_1793423457.jpg?x-oss-process=image/quality,q_80/format,webp"
+    },
+    {
+      "id": "11",
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/df9c5abcc4e04f7e753f998142643fc8ebc6e88f_1792567179.jpg?x-oss-process=image/quality,q_80/format,webp"
+    },
+    {
+      "id": "12",
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/41552b6815247042578648c77af73ef457a59a85_1793543313.jpg?x-oss-process=image/quality,q_80/format,webp"
+    },
+    {
+      "id": "13",
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/eeccd351daf65dbb1c8ab2a91cda4833faeb16ce_1793695024.jpg?x-oss-process=image/quality,q_80/format,webp"
+    },
+    {
+      "id": "14",
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/6ceaad9ae0a50fcfbf1ecd47d0275959f7b21f90_1793518855.jpg?x-oss-process=image/quality,q_80/format,webp"
+    }
+  ],
+  "productSlider": [
+    {
+      "id": "1",
+      "title": "انواع لوستر",
+      "showAllText": "مشاهده همه",
+      "showAllLink": "/product-list/plp_447708486",
+      "products": [
+        {
+          "id": 18327049,
+          "title": "لوستر مدل سه حلقه مدرن",
+          "image": "https://dkstatics-public.digikala.com/digikala-products/c2b459d34dbc6df0a9bde7e8c155428de53fc6b9_1739562117.jpg",
+          "price": 7990000,
+          "oldPrice": 9500000,
+          "discount": 16,
+          "rating": 4.2,
+          "reviewCount": 364,
+          "delivery": "ارسال فروشنده",
+          "link": "/product/dkp-18327049"
+        },
+        {
+          "id": 4908408,
+          "title": "لوستر سقفی مدل الیزه 4",
+          "image": "https://dkstatics-public.digikala.com/digikala-products/0a083ba63fbea3d76a095aa9cf234b8cd59295f1_1618409074.jpg",
+          "price": 1361600,
+          "oldPrice": 1566200,
+          "discount": 13,
+          "rating": 4.1,
+          "reviewCount": 3956,
+          "delivery": "موجود در انبار دیجی کالا",
+          "link": "/product/dkp-4908408"
+        },
+        {
+          "id": 7791327,
+          "title": "لوستر آویز کد 100",
+          "image": "https://dkstatics-public.digikala.com/digikala-products/400f234be05396b08e1b7c0c5c433764536dc0f2_1644165169.jpg",
+          "price": 470000,
+          "oldPrice": null,
+          "discount": 0,
+          "rating": 4.2,
+          "reviewCount": 1072,
+          "delivery": "",
+          "link": "/product/dkp-7791327"
+        },
+        {
+          "id": 12204665,
+          "title": "چراغ دیواری مدل قطاری کد W08",
+          "image": "https://dkstatics-public.digikala.com/digikala-products/95cae809720b328c707b04d4a234719795bf8ff0_1779714539.jpg",
+          "price": 1780000,
+          "oldPrice": null,
+          "discount": 0,
+          "rating": 4.3,
+          "reviewCount": 599,
+          "delivery": "ارسال ۳ ساعته فروشنده",
+          "link": "/product/dkp-12204665"
+        },
+        {
+          "id": 11763436,
+          "title": "چراغ دیواری دکوراتیو مدل قطاری کد W06",
+          "image": "https://dkstatics-public.digikala.com/digikala-products/3233a1ef2dc9835c770dcc13a9a281ce5c7de21a_1779714535.jpg",
+          "price": 1020000,
+          "oldPrice": null,
+          "discount": 0,
+          "rating": 4.1,
+          "reviewCount": 604,
+          "delivery": "",
+          "link": "/product/dkp-11763436"
+        },
+        {
+          "id": 4037832,
+          "title": "چراغ دیواری اِژین کدD142",
+          "image": "https://dkstatics-public.digikala.com/digikala-products/db7a74249429f4ba3b02f2af47504776003a35bf_1779714514.jpg",
+          "price": 450000,
+          "oldPrice": null,
+          "discount": 0,
+          "rating": 4.3,
+          "reviewCount": 977,
+          "delivery": "",
+          "link": "/product/dkp-4037832"
+        },
+        {
+          "id": 15300089,
+          "title": "لوستر سقفی مدل مدرن کد 15300089",
+          "image": "",
+          "price": 5405000,
+          "oldPrice": 5750000,
+          "discount": 6,
+          "rating": 4.3,
+          "reviewCount": 525,
+          "delivery": "",
+          "link": "/product/dkp-15300089"
+        },
+        {
+          "id": 6180505,
+          "title": "چراغ آویز مدل GU504",
+          "image": "",
+          "price": 489600,
+          "oldPrice": 680000,
+          "discount": 28,
+          "rating": 4.4,
+          "reviewCount": 2948,
+          "delivery": "",
+          "link": "/product/dkp-6180505"
+        },
+        {
+          "id": 21657026,
+          "title": "دیوار کوب مدل شمشیری کد 60",
+          "image": "",
+          "price": 960000,
+          "oldPrice": 1500000,
+          "discount": 36,
+          "rating": 4.2,
+          "reviewCount": 169,
+          "delivery": "",
+          "link": "/product/dkp-21657026"
+        },
+        {
+          "id": 15397358,
+          "title": "چراغ دیواری کد M106/1",
+          "image": "",
+          "price": 867000,
+          "oldPrice": null,
+          "discount": 0,
+          "rating": 4.3,
+          "reviewCount": 407,
+          "delivery": "",
+          "link": "/product/dkp-15397358"
+        },
+        {
+          "id": 461328,
+          "title": "لوستر رایکا شش شعله کد HR21",
+          "image": "",
+          "price": 2620000,
+          "oldPrice": null,
+          "discount": 0,
+          "rating": 4.3,
+          "reviewCount": 734,
+          "delivery": "",
+          "link": "/product/dkp-461328"
+        },
+        {
+          "id": 22411650,
+          "title": "لوستر 1 شعله ام کی ای لایتینگ مدل Fergol 3",
+          "image": "",
+          "price": 3300000,
+          "oldPrice": null,
+          "discount": 0,
+          "rating": 4.2,
+          "reviewCount": 16,
+          "delivery": "",
+          "link": "/product/dkp-22411650"
+        },
+        {
+          "id": 797609,
+          "title": "لوستر رایکا 3 شعله مدل شیپوری کوتاه کد ROS760",
+          "image": "",
+          "price": 1346800,
+          "oldPrice": 1820000,
+          "discount": 26,
+          "rating": 4.1,
+          "reviewCount": 1113,
+          "delivery": "",
+          "link": "/product/dkp-797609"
+        },
+        {
+          "id": 6096801,
+          "title": "لوستر پادینا مدل مدرن کد 7701",
+          "image": "",
+          "price": 6000000,
+          "oldPrice": null,
+          "discount": 0,
+          "rating": 4.5,
+          "reviewCount": 1834,
+          "delivery": "",
+          "link": "/product/dkp-6096801"
+        },
+        {
+          "id": 22603956,
+          "title": "لوستر سقفی زادمهر مدرن مدل نارسیس 40",
+          "image": "",
+          "price": 7144000,
+          "oldPrice": 7600000,
+          "discount": 6,
+          "rating": 3.6,
+          "reviewCount": 23,
+          "delivery": "",
+          "link": "/product/dkp-22603956"
+        },
+        {
+          "id": 12046243,
+          "title": "لوستر پادینا مدل مدرن کد PT500",
+          "image": "",
+          "price": 4500000,
+          "oldPrice": null,
+          "discount": 0,
+          "rating": 4.5,
+          "reviewCount": 573,
+          "delivery": "",
+          "link": "/product/dkp-12046243"
+        }
+      ]
+    }
+  ],
+  "services": [
+    {
+      "id": "1",
+      "title": "طلا و نقره دیجیتال",
+      "image": "https://dkstatics-public.digikala.com/digikala-bellatrix/d66e60056aa3aef7648b73a51dfad05f00d4364b_1790864775.png",
+      "link": "https://www.digikala.com/wealth/my-assets/",
+      "external": true
+    },
+    {
+      "id": "2",
+      "title": "دیجی‌استایل",
+      "image": "https://dkstatics-public.digikala.com/digikala-bellatrix/326f30e8e54d9ebb9ee57932d3d41de4907aed11_1791640382.png",
+      "link": "/superapp/dkstyle/",
+      "external": false
+    },
+    {
+      "id": "3",
+      "title": "سوپرمارکت",
+      "image": "https://dkstatics-public.digikala.com/digikala-bellatrix/adebec16b689d713eb4a4e9b9e3473a92b39134f_1790155115.png",
+      "link": "https://www.digikalajet.com/?utm_source=digikala-superweb",
+      "external": true
+    },
+    {
+      "id": "4",
+      "title": "اشتراک پلاس",
+      "image": "https://dkstatics-public.digikala.com/digikala-bellatrix/74a5ac2c42df40e2b9e9a1f7ef2fbb87a8f13cad_1771936893.png",
+      "link": "/plus/landing/",
+      "external": false
+    },
+    {
+      "id": "5",
+      "title": "وام بانکی، اعتبار خرید",
+      "image": "https://dkstatics-public.digikala.com/digikala-bellatrix/1d7ecb2d442364097e01a04c28490d4d06e0fd3a_1784998161.png",
+      "link": "https://api.digikala.com/super-app/v1/sso/fintech/?redirect_url=%2F%3Fsa_user%3Dtrue",
+      "external": true
+    },
+    {
+      "id": "6",
+      "title": "تخفیف روشنایی",
+      "image": "https://dkstatics-public.digikala.com/digikala-bellatrix/1c32e9cef8f896485b27dc02f2013d836483f886_1793633128.jpg",
+      "link": "/landing/falllights/",
+      "external": false
+    },
+    {
+      "id": "7",
+      "title": "ضدیخ با بهترین قیمت",
+      "image": "https://dkstatics-public.digikala.com/digikala-bellatrix/43cb30ad38f35cf3fd2716d0ed5df1e9975376b4_1792425421.png",
+      "link": "/product-list/plp_458730933/?sort=7",
+      "external": false
+    },
+    {
+      "id": "8",
+      "title": "در دیجی‌کالا بفروش",
+      "image": "https://dkstatics-public.digikala.com/digikala-bellatrix/f0909d6eae7ee548665693cfbe823b078cf70ede_1786811818.png",
+      "link": "https://dgka.me/Vrigcm",
+      "external": true
+    },
+    {
+      "id": "9",
+      "title": "فروشگاه‌های حضوری دیجی‌کالا",
+      "image": "https://dkstatics-public.digikala.com/digikala-bellatrix/bcfb2f367141fb0e3db4e1a3def0bb987513e678_1769854388.png",
+      "link": "/s/esvlzx/",
+      "external": false
+    }
+  ],
+  "amazingOffers": [
+    {
+      "id": "1",
+      "title": "ویال خوراکی ال کارنیتین یوروویتال بسته ۶ عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/fc58549f249907e312f1efb77cbd207506c2343b_1683632029.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80/format,webp",
+      "price": 78000,
+      "oldPrice": 660000,
+      "discount": 88,
+      "link": "/product/1"
+    },
+    {
+      "id": "2",
+      "title": "قرص ال کارنیتین یوروویتال 500 میلی گرم",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/2e55b5d8b247c10834512150f71194020a11deee_1661363134.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80/format,webp",
+      "price": 198000,
+      "oldPrice": 1320000,
+      "discount": 85,
+      "link": "/product/2"
+    },
+    {
+      "id": "3",
+      "title": "سرم لایه بردار پوست مدل AHA 15 درصد",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/66603f71a3328776cb33dbdba6f211b1675f772b_1784816693.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80/format,webp",
+      "price": 319000,
+      "oldPrice": 1700000,
+      "discount": 81,
+      "link": "/product/3"
+    },
+    {
+      "id": "4",
+      "title": "کرم آبرسان دست و صورت گلاما",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/7f658f64c3a99ed837cc62e55c3b0b41feadf409_1789465861.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80/format,webp",
+      "price": 319000,
+      "oldPrice": 1600000,
+      "discount": 80,
+      "link": "/product/4"
+    },
+    {
+      "id": "5",
+      "title": "سرم سفت کننده پوست گلاما",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/06ee43f37f8b2e62500df6f5fda557348811af81_1789460399.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80/format,webp",
+      "price": 319000,
+      "oldPrice": 1600000,
+      "discount": 80,
+      "link": "/product/5"
+    },
+    {
+      "id": "6",
+      "title": "تیشرت زنانه نخ پنبه مدل باکسی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/3decc511a2142017b9901bda3add00ae24ae3255_1785840513.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80/format,webp",
+      "price": 902160,
+      "oldPrice": 4296000,
+      "discount": 79,
+      "link": "/product/6"
+    },
+    {
+      "id": "7",
+      "title": "تستر ادو تویلت مردانه فرانک اولیویر",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/f1478e6e55ea7a2ed5a445cb0f1beef136d742b2_1779525750.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80/format,webp",
+      "price": 2000000,
+      "oldPrice": 9000750,
+      "discount": 78,
+      "link": "/product/7"
+    }
+  ],
+  "banners": [
+    {
+      "id": "1",
+      "title": "پارتنرشیپ مدوپد",
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/8db7d663294c97dd4073cfebcc310cc0abf7938d_1793620656.jpg?x-oss-process=image/quality,q_95",
+      "link": "https://dgka.me/SOOT/?&promo_name=%D9%BE%D8%A7%D8%B1%D8%AA%D9%86%D8%B1%D8%B4%DB%8C%D9%BE-%D9%85%D8%AF%D9%88%D9%BE%D8%AF&promo_position=home_top&promo_creative=213261&bCode=213261"
+    },
+    {
+      "id": "2",
+      "title": "پارتنرشیپ کسری",
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/b824b9e12e94851a3d220dd0c3e2341dad67e51e_1793170577.jpg?x-oss-process=image/quality,q_95",
+      "link": "/landing/kasraproducts/?utm_source=Digi&utm_medium=digikala&utm_campaign=kasra&utm_campaign=kasra&promo_name=پارتنرشیپ-کسری&promo_position=home_slider_new_v2&promo_creative=211441&bCode=214028"
+    },
+    {
+      "id": "3",
+      "title": "بهترین لپ‌تاپ‌ها",
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/4e871fa18feb646b15ac0923134d7a29af9f0fd8_1793690402.gif?x-oss-process=image",
+      "link": "/landing/laptop-tablet/?utm_source=onsite&utm_medium=banner&utm_campaign=LT&utm_content=050512&utm_term=typeA&promo_name=بهترین-لپ‌تاپ‌ها&promo_position=home_top&promo_creative=214139&bCode=214139"
+    },
+    {
+      "id": "4",
+      "title": "نوشیدنی گرم",
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/7e15d4c0eafba91b8c2a959bd94a4b3427df4223_1793350897.jpg?x-oss-process=image/quality,q_95",
+      "link": "/landing/warm-drink/?&promo_name=نوشیدنی-گرم&promo_position=home_top&promo_creative=214060&bCode=214060"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "title": "موبایل",
+      "image": "https://dkstatics-public.digikala.com/digikala-admin-landing/09a98a13c782e12a245930b4515d243b17734a33_1740821989.jpg",
+      "link": "/search/category-mobile/"
+    },
+    {
+      "id": "2",
+      "title": "لپ تاپ",
+      "image": "https://dkstatics-public.digikala.com/digikala-mega-menu/7cf1fed6dac6bdfd1b888db6bf8f443ea680244b_1748692252.jpg",
+      "link": "/search/category-notebook-netbook-ultrabook/"
+    },
+    {
+      "id": "3",
+      "title": "کالای دیجیتال",
+      "image": "https://dkstatics-public.digikala.com/digikala-admin-landing/151ec29bae111afd3b6a0e71cec5c4c26f1c3014_1740821986.jpg",
+      "link": "/search/category-electronic-devices/"
+    },
+    {
+      "id": "4",
+      "title": "خانه و آشپزخانه",
+      "image": "https://dkstatics-public.digikala.com/digikala-admin-landing/8a042388b93c5116604f35092a1fb35f8f0756be_1740821985.jpg",
+      "link": "/search/category-home-and-kitchen/"
+    },
+    {
+      "id": "5",
+      "title": "لوازم خانگی برقی",
+      "image": "https://dkstatics-public.digikala.com/digikala-admin-landing/d825f64f509cd5067a9022528c465e8ca705f60d_1740821988.jpg",
+      "link": "/search/category-home-appliance/"
+    },
+    {
+      "id": "6",
+      "title": "آرایشی بهداشتی",
+      "image": "https://dkstatics-public.digikala.com/digikala-admin-landing/b196bbdea97f57bfac02dc1666d7401b16ee4bcb_1740821984.jpg",
+      "link": "/search/category-personal-appliance/"
+    },
+    {
+      "id": "7",
+      "title": "مد و پوشاک",
+      "image": "https://dkstatics-public.digikala.com/digikala-admin-landing/b3d4eaefebe67ab8d849296ea2e7e113cde8094c_1740821988.jpg",
+      "link": "/landing/apparel/"
+    },
+    {
+      "id": "8",
+      "title": "طلا و نقره",
+      "image": "https://dkstatics-public.digikala.com/digikala-admin-landing/78135af4274ad7b7fcdaec7e5912689e5f5db96a_1740821985.jpg",
+      "link": "/landing/gold/"
+    },
+    {
+      "id": "9",
+      "title": "خودرو و موتور",
+      "image": "https://dkstatics-public.digikala.com/digikala-admin-landing/03552aa1293fec9f43477814ca62afdacdac18e3_1740821990.jpg",
+      "link": "/search/category-vehicles-spare-parts/"
+    },
+    {
+      "id": "10",
+      "title": "ابزارآلات",
+      "image": "https://dkstatics-public.digikala.com/digikala-admin-landing/fb6303218362cd2c48b40fef5da89ad33a5c04d7_1740821984.jpg",
+      "link": "/search/category-vehicles/"
+    },
+    {
+      "id": "11",
+      "title": "پزشکی و سلامت",
+      "image": "https://dkstatics-public.digikala.com/digikala-admin-landing/deb3f514c62761797eb6a49e1559268b8bce3219_1740821984.jpg",
+      "link": "/search/category-health-care/"
+    },
+    {
+      "id": "12",
+      "title": "شهر کتاب و هنر",
+      "image": "https://dkstatics-public.digikala.com/digikala-admin-landing/0cdf9c404e509371c3177a334be948a7e500419c_1740821987.jpg",
+      "link": "/search/category-book-and-media/"
+    },
+    {
+      "id": "13",
+      "title": "ورزش و سفر",
+      "image": "https://dkstatics-public.digikala.com/digikala-admin-landing/4d4582205d0d5045c2bd94c5e910bbb49ae4fd4e_1740821990.jpg",
+      "link": "/search/category-sport-entertainment/"
+    },
+    {
+      "id": "14",
+      "title": "کارت هدیه",
+      "image": "https://dkstatics-public.digikala.com/digikala-admin-landing/f35b3eba7de8bf2432fff4f53abfa8cbaa6e71d6_1740821985.jpg",
+      "link": "/main/dk-ds-gift-card/"
+    },
+    {
+      "id": "15",
+      "title": "سوپرمارکتی",
+      "image": "https://dkstatics-public.digikala.com/digikala-admin-landing/7adb0cc6edc18a6d04b9ba3bdd424b1bcce47848_1740821986.jpg",
+      "link": "/search/category-food-beverage/"
+    },
+    {
+      "id": "16",
+      "title": "اسباب‌بازی و کودک",
+      "image": "https://dkstatics-public.digikala.com/digikala-admin-landing/6f5284dccdb280616bbfe58533ecc483de4639af_1740821987.jpg",
+      "link": "/search/category-mother-and-child/"
+    },
+    {
+      "id": "17",
+      "title": "بومی و محلی",
+      "image": "https://dkstatics-public.digikala.com/digikala-admin-landing/9a4dfac524f8a865f9f69e38d5434fa69fe63e3b_1740821990.jpg",
+      "link": "/search/category-rural-products/"
+    },
+    {
+      "id": "18",
+      "title": "پت شاپ",
+      "image": "https://dkstatics-public.digikala.com/digikala-mega-menu/6f236efd9caae4d1c3177f37c483aa44c3092b6a_1753614680.jpg",
+      "link": "/search/category-pet/"
+    }
+  ],
+  "middleBanners": [
+    {
+      "id": "1",
+      "title": "پارتنرشیپ ساین اسکالپ",
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/90a0a0f05e196105b7200b7e6cd700ee25a7d90a_1793191152.jpg?x-oss-process=image/quality,q_95",
+      "link": "/brand/synscalp-pc/?&promo_name=پارتنرشیپ-ساین-اسکالپ&promo_position=home_middle&promo_creative=214032&bCode=214032"
+    },
+    {
+      "id": "2",
+      "title": "پارتنرشیپ بن مانو",
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/13086e7dccad3addbd4df6a56055bfd0f6f99e16_1793699121.jpg?x-oss-process=image/quality,q_95",
+      "link": "/product/dkp-23015700/قهوه-فوری-گلد-گرانول-بن-مانو-90-گرم/?product_id=23015700&variant_id=89679765&promo_name=پارتنرشیپ-بن-مانو&promo_position=home_middle&promo_creative=214034&bCode=214034"
+    }
+  ],
+  "vitamins": {
+    "id": 1,
+    "title": "ویتامین‌ها و مواد معدنی",
+    "subtitle": "بر اساس سلیقه شما",
+    "moreLink": "/personalized-category/feed/?token=eyJldCI6ImV5SnpkbU1pT2lKb2IyMWxYM2RwWkdkbGRITWlMQ0p6ZEhKaGRDSTZJbU53YzE5Mk0xOTJhV1YzWldSZlptbHljM1FpTENKallYUmxaMjl5ZVY5cFpDSTZNVEF4TWpGOSIsImtleSI6ImhvbWVfd2lkZ2V0XzAifQ%3D%3D",
+    "products": [
+      {
+        "id": 1,
+        "title": "کپسول فرودین هولیستیکا بسته 32 عددی",
+        "image": "https://dkstatics-public.digikala.com/digikala-products/9a50de988e334badbc09fdfdc365e4cb35aa290d_1603007772.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80",
+        "price": 240000,
+        "oldPrice": 365800,
+        "discount": 34,
+        "link": "/product/dkp-3549737/"
+      },
+      {
+        "id": 2,
+        "title": "قرص ویتامین D3-1000 واحدی بسته 60 عددی",
+        "image": "https://dkstatics-public.digikala.com/digikala-products/c64720f4446aa94b873dab4ae35091bc3f0fcc22_1637680139.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80",
+        "price": 139500,
+        "oldPrice": 527000,
+        "discount": 73,
+        "link": "/product/dkp-7158804/"
+      },
+      {
+        "id": 3,
+        "title": "کپسول ب کمپلکس آپوویتال بسته 40 عددی",
+        "image": "https://dkstatics-public.digikala.com/digikala-products/7ecf6e35ca85f787e4a9eab369d05f23813a34b6_1645431975.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80",
+        "price": 62700,
+        "oldPrice": 418000,
+        "discount": 85,
+        "link": "/product/dkp-7913657/"
+      },
+      {
+        "id": 4,
+        "title": "قرص زینک پلاس پابا یوروویتال بسته 60 عددی",
+        "image": "https://dkstatics-public.digikala.com/digikala-products/58fad2977c290c0914aeb1f1ece4c51183296e42_1714646605.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80",
+        "price": 122000,
+        "oldPrice": 1108800,
+        "discount": 88,
+        "link": "/product/dkp-15338501/"
+      },
+      {
+        "id": 5,
+        "title": "قرص ویتامین د 3 Health اید بسته 30 عددی",
+        "image": "https://dkstatics-public.digikala.com/digikala-products/c2db653cfabe404e1d0225ac31ffb68853ff7d31_1602596054.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80",
+        "price": 90000,
+        "oldPrice": 214500,
+        "discount": 58,
+        "link": "/product/dkp-3536523/"
+      },
+      {
+        "id": 6,
+        "title": "ساشه انرژی سان یوروویتال بسته 30 عددی",
+        "image": "https://dkstatics-public.digikala.com/digikala-products/8f57954e5662718538843cddec0d2d23550036bc_1731856095.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80",
+        "price": 105990,
+        "oldPrice": 880000,
+        "discount": 87,
+        "link": "/product/dkp-17428425/"
+      },
+      {
+        "id": 7,
+        "title": "سافت ژل امگا 3 وانا مکس نورم لایف بسته 60 عددی",
+        "image": "https://dkstatics-public.digikala.com/digikala-products/c01eff4d0f0beafee23e45207c507b8310e243ea_1620731965.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80",
+        "price": 556800,
+        "oldPrice": 990000,
+        "discount": 44,
+        "link": "/product/dkp-5143645/"
+      },
+      {
+        "id": 8,
+        "title": "کپسول ژلاتینی نرم زینک پلاس فلکسان بسته 60 عددی",
+        "image": "https://dkstatics-public.digikala.com/digikala-products/34a28cdec9e82eed86547d2695067d13615289d8_1624175632.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80",
+        "price": 300000,
+        "oldPrice": 1056000,
+        "discount": 71,
+        "link": "/product/dkp-5487416/"
+      },
+      {
+        "id": 9,
+        "title": "شربت آرژی پلاس 200 میلی لیتر",
+        "image": "",
+        "price": 270000,
+        "oldPrice": 660000,
+        "discount": 59,
+        "link": "/product/dkp-8414923/"
+      },
+      {
+        "id": 10,
+        "title": "قرص کلسی نورم پلاس فلکسان بسته 60 عددی",
+        "image": "",
+        "price": 220000,
+        "oldPrice": 1056000,
+        "discount": 79,
+        "link": "/product/dkp-11440726/"
+      }
+    ]
+  },
+  "phonecover": [
+    {
+      "id": "1",
+      "title": "کیف و کاور گوشی",
+      "subtitle": "بر اساس سلیقه شما",
+      "moreLink": "/personalized-category/feed/?token=eyJldCI6ImV5SnpkbU1pT2lKb2IyMWxYM2RwWkdkbGRITWlMQ0p6ZEhKaGRDSTZJbU53YzE5Mk0xOTJhV1YzWldSZlptbHljM1FpTENKallYUmxaMjl5ZVY5cFpDSTZOemQ5Iiwia2V5IjoiaG9tZV93aWRnZXRfMSJ9",
+      "products": [
+        {
+          "id": 21590219,
+          "title": "کاور سامورایی مدل Scaly مناسب برای گوشی موبایل سامسونگ Galaxy S24 Ultra",
+          "image": "https://dkstatics-public.digikala.com/digikala-products/895155a26872171e687783766ea54bbe90cec701_1773819115.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80",
+          "price": 599000,
+          "oldPrice": 760000,
+          "discount": 21,
+          "link": "/product/dkp-21590219/"
+        },
+        {
+          "id": 3368337,
+          "title": "کاور مدل BLKN مناسب برای گوشی موبایل سامسونگ Galaxy A30",
+          "image": "https://dkstatics-public.digikala.com/digikala-products/2dc89fdb9ca34430030b378df3be3b56fb6d7584_1599636307.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80",
+          "price": 56000,
+          "oldPrice": 140000,
+          "discount": 60,
+          "link": "/product/dkp-3368337/"
+        },
+        {
+          "id": 3368339,
+          "title": "کاور مدل BLKN مناسب برای گوشی موبایل سامسونگ Galaxy A10",
+          "image": "https://dkstatics-public.digikala.com/digikala-products/370daa9e595a789896828739f48890b7b9e3e1f8_1599636289.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80",
+          "price": 45000,
+          "oldPrice": 150000,
+          "discount": 70,
+          "link": "/product/dkp-3368339/"
+        },
+        {
+          "id": 20569895,
+          "title": "کاور نیلکین مدل Super Frosted Shield Pro مناسب برای گوشی موبایل سامسونگ Galaxy S25 FE",
+          "image": "https://dkstatics-public.digikala.com/digikala-products/01c32a9abc183c85efe01a573cf644f2676047b9_1759300588.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80",
+          "price": 2076560,
+          "oldPrice": null,
+          "discount": 0,
+          "link": "/product/dkp-20569895/"
+        },
+        {
+          "id": 19988679,
+          "title": "کاور موکولو مدل XUNDD مناسب برای گوشی موبایل شیائومی Mi 11T / Mi 11T Pro",
+          "image": "https://dkstatics-public.digikala.com/digikala-products/f0ec0d3c75670f75a6425566208f99ee2ddf6caa_1753965141.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80",
+          "price": 800000,
+          "oldPrice": null,
+          "discount": 0,
+          "link": "/product/dkp-19988679/"
+        },
+        {
+          "id": 21931173,
+          "title": "کاور نیلکین مدل CamShield Pro مناسب برای گوشی موبایل سامسونگ Galaxy A57",
+          "image": "https://dkstatics-public.digikala.com/digikala-products/0c48efd8c1fe6e56d3359ce156c14c6efb801095_1780478224.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80",
+          "price": 2323120,
+          "oldPrice": null,
+          "discount": 0,
+          "link": "/product/dkp-21931173/"
+        },
+        {
+          "id": 16847042,
+          "title": "کاور گاردتک مدل Cool1_X3 مناسب برای گوشی موبایل شیائومی Poco X3 / X3 Pro",
+          "image": "https://dkstatics-public.digikala.com/digikala-products/ff0925f1ccd1bc2edc9dde708a69eabd60957ea7_1727692201.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80",
+          "price": 690000,
+          "oldPrice": null,
+          "discount": 0,
+          "link": "/product/dkp-16847042/"
+        },
+        {
+          "id": 22125301,
+          "title": "کاور سامورایی مدل Lawa مناسب برای گوشی موبایل سامسونگ Galaxy A57 5G",
+          "image": "https://dkstatics-public.digikala.com/digikala-products/5af1ad8e543f9d584bf4b358c63a7d96f0b5db8e_1782824003.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80",
+          "price": 809000,
+          "oldPrice": 1000000,
+          "discount": 19,
+          "link": "/product/dkp-22125301/"
+        },
+        {
+          "id": 16848206,
+          "title": "کاور گاردتک مدل SoCool_A12 مناسب برای گوشی موبایل سامسونگ Galaxy A12",
+          "image": "",
+          "price": 488000,
+          "oldPrice": null,
+          "discount": 0,
+          "link": "/product/dkp-16848206/"
+        },
+        {
+          "id": 17394062,
+          "title": "کاور گاردتک مدل SCool_A16 مناسب برای گوشی موبایل سامسونگ Galaxy A16 4G / 5G",
+          "image": "",
+          "price": 419000,
+          "oldPrice": null,
+          "discount": 0,
+          "link": "/product/dkp-17394062/"
+        }
+      ]
+    }
+  ],
+  "bestselling": [
+    {
+      "id": "1",
+      "title": "پرفروش‌ترین‌ها",
+      "icon": "https://dkstatics-public.digikala.com/digikala-static/cd89e7fff160139c25350c3194c28fafaad3da0e_1722332355.svg",
+      "products": [
+        {
+          "id": 15335483,
+          "rank": 1,
+          "title": "کوسن ناریکو مدل فانتزی کد 04736",
+          "image": "https://dkstatics-public.digikala.com/digikala-products/9c36915ca166906f2a85f995caa6aa2df709d191_1714633746.jpg",
+          "link": "/product/dkp-15335483/"
+        },
+        {
+          "id": 10222025,
+          "rank": 2,
+          "title": "کاور کوسن مدل ساحل co35se-122 بسته 3 عددی",
+          "image": "https://dkstatics-public.digikala.com/digikala-products/d03de7ddf7ef23ffaaa21e3e0d7a290197a839c6_1671568507.jpg",
+          "link": "/product/dkp-10222025/"
+        },
+        {
+          "id": 2135375,
+          "rank": 3,
+          "title": "کاور کوسن کد 954",
+          "image": "https://dkstatics-public.digikala.com/digikala-products/113941745.jpg",
+          "link": "/product/dkp-2135375/"
+        },
+        {
+          "id": 16662979,
+          "rank": 4,
+          "title": "بالش نوزاد ناریکو مدل دخترانه طرح اسم سوگل کد 06145",
+          "image": "https://dkstatics-public.digikala.com/digikala-products/fb3728ba41b58c8972bd45bc736ee0c0a5968e78_1725799708.jpg",
+          "link": "/product/dkp-16662979/"
+        },
+        {
+          "id": 16680220,
+          "rank": 5,
+          "title": "بالش نوزاد ناریکو مدل دخترانه طرح اسم طلا کد 06215",
+          "image": "https://dkstatics-public.digikala.com/digikala-products/58ebd668e6854610ed4993dc2b0e58e479d6e875_1725967397.jpg",
+          "link": "/product/dkp-16680220/"
+        },
+        {
+          "id": 15102334,
+          "rank": 6,
+          "title": "کوسن مدل سگ کد C137",
+          "image": "https://dkstatics-public.digikala.com/digikala-products/951fa3fbcb99d85deb92ebd1f44fff2e55d8f96f_1713083774.jpg",
+          "link": "/product/dkp-15102334/"
+        },
+        {
+          "id": 14806681,
+          "rank": 7,
+          "title": "بالش ناریکو مدل نوزاد طرح فیل کد 04510",
+          "image": "https://dkstatics-public.digikala.com/digikala-products/e555889850e2c44ef2448c452d303a71742bc451_1710265348.jpg",
+          "link": "/product/dkp-14806681/"
+        },
+        {
+          "id": 14841596,
+          "rank": 8,
+          "title": "بالش ناریکو مدل نوزاد طرح دختر کد 04595",
+          "image": "https://dkstatics-public.digikala.com/digikala-products/b9fd7334a2cebbc8971947f06cb6f7f8623da493_1710491703.jpg",
+          "link": "/product/dkp-14841596/"
+        },
+        {
+          "id": 15596098,
+          "rank": 9,
+          "title": "کوسن مدل فانتزی کد C392",
+          "image": "https://dkstatics-public.digikala.com/digikala-products/197691a508a01766b7f0c35dccc8ee3075cf7a18_1716905123.jpg",
+          "link": "/product/dkp-15596098/"
+        },
+        {
+          "id": 15580413,
+          "rank": 10,
+          "title": "کوسن مدل کاکتوس کد C179",
+          "image": "https://dkstatics-public.digikala.com/digikala-products/0c591321d30f7c0708cdfcc86730e414f7d3878c_1716795558.jpg",
+          "link": "/product/dkp-15580413/"
+        },
+        {
+          "id": 15335215,
+          "rank": 11,
+          "title": "کوسن ناریکو مدل فانتزی کد 04729",
+          "image": "https://dkstatics-public.digikala.com/digikala-products/dd111893d2d7dd9a09e2d97ad035166a0b9a6574_1714632025.jpg",
+          "link": "/product/dkp-15335215/"
+        },
+        {
+          "id": 15183995,
+          "rank": 12,
+          "title": "کوسن مدل جین کد C199",
+          "image": "https://dkstatics-public.digikala.com/digikala-products/b222b8be66614cef5dbd6a85b4f8b2f7cce50ed3_1713630704.jpg",
+          "link": "/product/dkp-15183995/"
+        },
+        {
+          "id": 17079159,
+          "rank": 13,
+          "title": "کوسن مدل گل فانتزی کد DKK751",
+          "image": "https://dkstatics-public.digikala.com/digikala-products/cf84d57fe3141da36267c7eea6d1e12f7014a13f_1729367014.jpg",
+          "link": "/product/dkp-17079159/"
+        },
+        {
+          "id": 15192299,
+          "rank": 14,
+          "title": "کوسن مدل گل و پرنده کد C203",
+          "image": "https://dkstatics-public.digikala.com/digikala-products/f066727da6db9d8205d0648779cf1ce58738fb83_1713676357.jpg",
+          "link": "/product/dkp-15192299/"
+        },
+        {
+          "id": 15180695,
+          "rank": 15,
+          "title": "کوسن مدل فانتزی کد C165",
+          "image": "https://dkstatics-public.digikala.com/digikala-products/c739f650241b3e1400ec7032b82d70c638c96799_1713616419.jpg",
+          "link": "/product/dkp-15180695/"
+        }
+      ]
+    }
+  ],
+  "products": [
+    {
+      "id": "18327049",
+      "title": "لوستر مدل سه حلقه مدرن 32333",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/c2b459d34dbc6df0a9bde7e8c155428de53fc6b9_1739562117.jpg",
+      "price": 7990000,
+      "oldPrice": 9500000,
+      "discount": 16,
+      "category": "خانه و آشپزخانه",
+      "rating": 4.2,
+      "reviewCount": 364,
+      "delivery": "ارسال فروشنده",
+      "link": "/product/dkp-18327049"
+    },
+    {
+      "id": "4908408",
+      "title": "لوستر سقفی مدل الیزه 4",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/0a083ba63fbea3d76a095aa9cf234b8cd59295f1_1618409074.jpg",
+      "price": 1361600,
+      "oldPrice": 1566200,
+      "discount": 13,
+      "category": "خانه و آشپزخانه",
+      "rating": 4.1,
+      "reviewCount": 3956,
+      "delivery": "موجود در انبار دیجی کالا",
+      "link": "/product/dkp-4908408"
+    },
+    {
+      "id": "7791327",
+      "title": "لوستر آویز کد 100",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/400f234be05396b08e1b7c0c5c433764536dc0f2_1644165169.jpg",
+      "price": 470000,
+      "oldPrice": null,
+      "discount": 0,
+      "category": "خانه و آشپزخانه",
+      "rating": 4.2,
+      "reviewCount": 1072,
+      "delivery": "",
+      "link": "/product/dkp-7791327"
+    },
+    {
+      "id": "12204665",
+      "title": "چراغ دیواری مدل قطاری کد W08",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/95cae809720b328c707b04d4a234719795bf8ff0_1779714539.jpg",
+      "price": 1780000,
+      "oldPrice": null,
+      "discount": 0,
+      "category": "خانه و آشپزخانه",
+      "rating": 4.3,
+      "reviewCount": 599,
+      "delivery": "ارسال ۳ ساعته فروشنده",
+      "link": "/product/dkp-12204665"
+    },
+    {
+      "id": "11763436",
+      "title": "چراغ دیواری دکوراتیو مدل قطاری کد W06",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/3233a1ef2dc9835c770dcc13a9a281ce5c7de21a_1779714535.jpg",
+      "price": 1020000,
+      "oldPrice": null,
+      "discount": 0,
+      "category": "خانه و آشپزخانه",
+      "rating": 4.1,
+      "reviewCount": 604,
+      "delivery": "",
+      "link": "/product/dkp-11763436"
+    },
+    {
+      "id": "4037832",
+      "title": "چراغ دیواری اِژین کدD142",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/db7a74249429f4ba3b02f2af47504776003a35bf_1779714514.jpg",
+      "price": 450000,
+      "oldPrice": null,
+      "discount": 0,
+      "category": "خانه و آشپزخانه",
+      "rating": 4.3,
+      "reviewCount": 977,
+      "delivery": "",
+      "link": "/product/dkp-4037832"
+    },
+    {
+      "id": "15300089",
+      "title": "لوستر سقفی مدل مدرن کد 15300089",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/c2b459d34dbc6df0a9bde7e8c155428de53fc6b9_1739562117.jpg",
+      "price": 5405000,
+      "oldPrice": 5750000,
+      "discount": 6,
+      "category": "خانه و آشپزخانه",
+      "rating": 4.3,
+      "reviewCount": 525,
+      "delivery": "",
+      "link": "/product/dkp-15300089"
+    },
+    {
+      "id": "6180505",
+      "title": "چراغ آویز مدل GU504",
+      "image": "",
+      "price": 489600,
+      "oldPrice": 680000,
+      "discount": 28,
+      "category": "خانه و آشپزخانه",
+      "rating": 4.4,
+      "reviewCount": 2948,
+      "delivery": "",
+      "link": "/product/dkp-6180505"
+    },
+    {
+      "id": "21657026",
+      "title": "دیوار کوب مدل شمشیری کد 60",
+      "image": "",
+      "price": 960000,
+      "oldPrice": 1500000,
+      "discount": 36,
+      "category": "خانه و آشپزخانه",
+      "rating": 4.2,
+      "reviewCount": 169,
+      "delivery": "",
+      "link": "/product/dkp-21657026"
+    },
+    {
+      "id": "15397358",
+      "title": "چراغ دیواری کد M106/1",
+      "image": "",
+      "price": 867000,
+      "oldPrice": null,
+      "discount": 0,
+      "category": "خانه و آشپزخانه",
+      "rating": 4.3,
+      "reviewCount": 407,
+      "delivery": "",
+      "link": "/product/dkp-15397358"
+    },
+    {
+      "id": "461328",
+      "title": "لوستر رایکا شش شعله کد HR21",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/c2b459d34dbc6df0a9bde7e8c155428de53fc6b9_1739562117.jpg",
+      "price": 2620000,
+      "oldPrice": 0,
+      "discount": 0,
+      "category": "خانه و آشپزخانه",
+      "rating": 4.3,
+      "reviewCount": 734,
+      "delivery": "",
+      "link": "/product/dkp-461328"
+    },
+    {
+      "id": "22411650",
+      "title": "لوستر 1 شعله ام کی ای لایتینگ مدل Fergol 3",
+      "image": "",
+      "price": 3300000,
+      "oldPrice": null,
+      "discount": 0,
+      "category": "خانه و آشپزخانه",
+      "rating": 4.2,
+      "reviewCount": 16,
+      "delivery": "",
+      "link": "/product/dkp-22411650"
+    },
+    {
+      "id": "797609",
+      "title": "لوستر رایکا 3 شعله مدل شیپوری کوتاه کد ROS760",
+      "image": "",
+      "price": 1346800,
+      "oldPrice": 1820000,
+      "discount": 26,
+      "category": "خانه و آشپزخانه",
+      "rating": 4.1,
+      "reviewCount": 1113,
+      "delivery": "",
+      "link": "/product/dkp-797609"
+    },
+    {
+      "id": "6096801",
+      "title": "لوستر پادینا مدل مدرن کد 7701",
+      "image": "",
+      "price": 6000000,
+      "oldPrice": null,
+      "discount": 0,
+      "category": "خانه و آشپزخانه",
+      "rating": 4.5,
+      "reviewCount": 1834,
+      "delivery": "",
+      "link": "/product/dkp-6096801"
+    },
+    {
+      "id": "22603956",
+      "title": "لوستر سقفی زادمهر مدرن مدل نارسیس 40",
+      "image": "",
+      "price": 7144000,
+      "oldPrice": 7600000,
+      "discount": 6,
+      "category": "خانه و آشپزخانه",
+      "rating": 3.6,
+      "reviewCount": 23,
+      "delivery": "",
+      "link": "/product/dkp-22603956"
+    },
+    {
+      "id": "12046243",
+      "title": "لوستر پادینا مدل مدرن کد PT500",
+      "image": "",
+      "price": 4500000,
+      "oldPrice": null,
+      "discount": 0,
+      "category": "خانه و آشپزخانه",
+      "rating": 4.5,
+      "reviewCount": 573,
+      "delivery": "",
+      "link": "/product/dkp-12046243"
+    },
+    {
+      "id": "3549737",
+      "title": "کپسول فرودین هولیستیکا بسته 32 عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/9a50de988e334badbc09fdfdc365e4cb35aa290d_1603007772.jpg",
+      "price": 240000,
+      "oldPrice": 365800,
+      "discount": 34,
+      "category": "ویتامین و مکمل",
+      "link": "/product/dkp-3549737/"
+    },
+    {
+      "id": "7158804",
+      "title": "قرص ویتامین D3-1000 واحدی بسته 60 عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/c64720f4446aa94b873dab4ae35091bc3f0fcc22_1637680139.jpg",
+      "price": 139500,
+      "oldPrice": 527000,
+      "discount": 73,
+      "category": "ویتامین و مکمل",
+      "link": "/product/dkp-7158804/"
+    },
+    {
+      "id": "7913657",
+      "title": "کپسول ب کمپلکس آپوویتال بسته 40 عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/7ecf6e35ca85f787e4a9eab369d05f23813a34b6_1645431975.jpg",
+      "price": 62700,
+      "oldPrice": 418000,
+      "discount": 85,
+      "category": "ویتامین و مکمل",
+      "link": "/product/dkp-7913657/"
+    },
+    {
+      "id": "15338501",
+      "title": "قرص زینک پلاس پابا یوروویتال بسته 60 عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/58fad2977c290c0914aeb1f1ece4c51183296e42_1714646605.jpg",
+      "price": 122000,
+      "oldPrice": 1108800,
+      "discount": 88,
+      "category": "ویتامین و مکمل",
+      "link": "/product/dkp-15338501/"
+    },
+    {
+      "id": "3536523",
+      "title": "قرص ویتامین د 3 Health اید بسته 30 عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/c2db653cfabe404e1d0225ac31ffb68853ff7d31_1602596054.jpg",
+      "price": 90000,
+      "oldPrice": 214500,
+      "discount": 58,
+      "category": "ویتامین و مکمل",
+      "link": "/product/dkp-3536523/"
+    },
+    {
+      "id": "17428425",
+      "title": "ساشه انرژی سان یوروویتال بسته 30 عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/8f57954e5662718538843cddec0d2d23550036bc_1731856095.jpg",
+      "price": 105990,
+      "oldPrice": 880000,
+      "discount": 87,
+      "category": "ویتامین و مکمل",
+      "link": "/product/dkp-17428425/"
+    },
+    {
+      "id": "5143645",
+      "title": "سافت ژل امگا 3 وانا مکس نورم لایف بسته 60 عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/c01eff4d0f0beafee23e45207c507b8310e243ea_1620731965.jpg",
+      "price": 556800,
+      "oldPrice": 990000,
+      "discount": 44,
+      "category": "ویتامین و مکمل",
+      "link": "/product/dkp-5143645/"
+    },
+    {
+      "id": "5487416",
+      "title": "کپسول ژلاتینی نرم زینک پلاس فلکسان بسته 60 عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/34a28cdec9e82eed86547d2695067d13615289d8_1624175632.jpg",
+      "price": 300000,
+      "oldPrice": 1056000,
+      "discount": 71,
+      "category": "ویتامین و مکمل",
+      "link": "/product/dkp-5487416/"
+    },
+    {
+      "id": "8414923",
+      "title": "شربت آرژی پلاس 200 میلی لیتر",
+      "image": "",
+      "price": 270000,
+      "oldPrice": 660000,
+      "discount": 59,
+      "category": "ویتامین و مکمل",
+      "link": "/product/dkp-8414923/"
+    },
+    {
+      "id": "11440726",
+      "title": "قرص کلسی نورم پلاس فلکسان بسته 60 عددی",
+      "image": "",
+      "price": 220000,
+      "oldPrice": 1056000,
+      "discount": 79,
+      "category": "ویتامین و مکمل",
+      "link": "/product/dkp-11440726/"
+    },
+    {
+      "id": "21590219",
+      "title": "کاور سامورایی مدل Scaly مناسب برای گوشی موبایل سامسونگ Galaxy S24 Ultra",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/895155a26872171e687783766ea54bbe90cec701_1773819115.jpg",
+      "price": 599000,
+      "oldPrice": 760000,
+      "discount": 21,
+      "category": "موبایل و لوازم جانبی",
+      "link": "/product/dkp-21590219/"
+    },
+    {
+      "id": "3368337",
+      "title": "کاور مدل BLKN مناسب برای گوشی موبایل سامسونگ Galaxy A30",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/2dc89fdb9ca34430030b378df3be3b56fb6d7584_1599636307.jpg",
+      "price": 56000,
+      "oldPrice": 140000,
+      "discount": 60,
+      "category": "موبایل و لوازم جانبی",
+      "link": "/product/dkp-3368337/"
+    },
+    {
+      "id": "3368339",
+      "title": "کاور مدل BLKN مناسب برای گوشی موبایل سامسونگ Galaxy A10",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/370daa9e595a789896828739f48890b7b9e3e1f8_1599636289.jpg",
+      "price": 45000,
+      "oldPrice": 150000,
+      "discount": 70,
+      "category": "موبایل و لوازم جانبی",
+      "link": "/product/dkp-3368339/"
+    },
+    {
+      "id": "20569895",
+      "title": "کاور نیلکین مدل Super Frosted Shield Pro مناسب برای گوشی موبایل سامسونگ Galaxy S25 FE",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/01c32a9abc183c85efe01a573cf644f2676047b9_1759300588.jpg",
+      "price": 2076560,
+      "oldPrice": null,
+      "discount": 0,
+      "category": "موبایل و لوازم جانبی",
+      "link": "/product/dkp-20569895/"
+    },
+    {
+      "id": "19988679",
+      "title": "کاور موکولو مدل XUNDD مناسب برای گوشی موبایل شیائومی Mi 11T / Mi 11T Pro",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/f0ec0d3c75670f75a6425566208f99ee2ddf6caa_1753965141.jpg",
+      "price": 800000,
+      "oldPrice": null,
+      "discount": 0,
+      "category": "موبایل و لوازم جانبی",
+      "link": "/product/dkp-19988679/"
+    },
+    {
+      "id": "21931173",
+      "title": "کاور نیلکین مدل CamShield Pro مناسب برای گوشی موبایل سامسونگ Galaxy A57",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/0c48efd8c1fe6e56d3359ce156c14c6efb801095_1780478224.jpg",
+      "price": 2323120,
+      "oldPrice": null,
+      "discount": 0,
+      "category": "موبایل و لوازم جانبی",
+      "link": "/product/dkp-21931173/"
+    },
+    {
+      "id": "16847042",
+      "title": "کاور گاردتک مدل Cool1_X3 مناسب برای گوشی موبایل شیائومی Poco X3 / X3 Pro",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/ff0925f1ccd1bc2edc9dde708a69eabd60957ea7_1727692201.jpg",
+      "price": 690000,
+      "oldPrice": null,
+      "discount": 0,
+      "category": "موبایل و لوازم جانبی",
+      "link": "/product/dkp-16847042/"
+    },
+    {
+      "id": "22125301",
+      "title": "کاور سامورایی مدل Lawa مناسب برای گوشی موبایل سامسونگ Galaxy A57 5G",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/5af1ad8e543f9d584bf4b358c63a7d96f0b5db8e_1782824003.jpg",
+      "price": 809000,
+      "oldPrice": 1000000,
+      "discount": 19,
+      "category": "موبایل و لوازم جانبی",
+      "link": "/product/dkp-22125301/"
+    },
+    {
+      "id": "16848206",
+      "title": "کاور گاردتک مدل SoCool_A12 مناسب برای گوشی موبایل سامسونگ Galaxy A12",
+      "image": "",
+      "price": 488000,
+      "oldPrice": null,
+      "discount": 0,
+      "category": "موبایل و لوازم جانبی",
+      "link": "/product/dkp-16848206/"
+    },
+    {
+      "id": "17394062",
+      "title": "کاور گاردتک مدل SCool_A16 مناسب برای گوشی موبایل سامسونگ Galaxy A16 4G / 5G",
+      "image": "",
+      "price": 419000,
+      "oldPrice": null,
+      "discount": 0,
+      "category": "موبایل و لوازم جانبی",
+      "link": "/product/dkp-17394062/"
+    },
+    {
+      "id": "15335483",
+      "title": "کوسن ناریکو مدل فانتزی کد 04736",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/9c36915ca166906f2a85f995caa6aa2df709d191_1714633746.jpg",
+      "price": 0,
+      "oldPrice": null,
+      "discount": 0,
+      "category": "خانه و آشپزخانه",
+      "rank": 1,
+      "link": "/product/dkp-15335483/"
+    },
+    {
+      "id": "10222025",
+      "title": "کاور کوسن مدل ساحل co35se-122 بسته 3 عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/d03de7ddf7ef23ffaaa21e3e0d7a290197a839c6_1671568507.jpg",
+      "price": 0,
+      "oldPrice": null,
+      "discount": 0,
+      "category": "خانه و آشپزخانه",
+      "rank": 2,
+      "link": "/product/dkp-10222025/"
+    },
+    {
+      "id": "2135375",
+      "title": "کاور کوسن کد 954",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/113941745.jpg",
+      "price": 0,
+      "oldPrice": null,
+      "discount": 0,
+      "category": "خانه و آشپزخانه",
+      "rank": 3,
+      "link": "/product/dkp-2135375/"
+    },
+    {
+      "id": "16662979",
+      "title": "بالش نوزاد ناریکو مدل دخترانه طرح اسم سوگل کد 06145",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/fb3728ba41b58c8972bd45bc736ee0c0a5968e78_1725799708.jpg",
+      "price": 0,
+      "oldPrice": null,
+      "discount": 0,
+      "category": "خانه و آشپزخانه",
+      "rank": 4,
+      "link": "/product/dkp-16662979/"
+    },
+    {
+      "id": "16680220",
+      "title": "بالش نوزاد ناریکو مدل دخترانه طرح اسم طلا کد 06215",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/58ebd668e6854610ed4993dc2b0e58e479d6e875_1725967397.jpg",
+      "price": 0,
+      "oldPrice": null,
+      "discount": 0,
+      "category": "خانه و آشپزخانه",
+      "rank": 5,
+      "link": "/product/dkp-16680220/"
+    },
+    {
+      "id": "15102334",
+      "title": "کوسن مدل سگ کد C137",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/951fa3fbcb99d85deb92ebd1f44fff2e55d8f96f_1713083774.jpg",
+      "price": 0,
+      "oldPrice": null,
+      "discount": 0,
+      "category": "خانه و آشپزخانه",
+      "rank": 6,
+      "link": "/product/dkp-15102334/"
+    },
+    {
+      "id": "14806681",
+      "title": "بالش ناریکو مدل نوزاد طرح فیل کد 04510",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/e555889850e2c44ef2448c452d303a71742bc451_1710265348.jpg",
+      "price": 0,
+      "oldPrice": null,
+      "discount": 0,
+      "category": "خانه و آشپزخانه",
+      "rank": 7,
+      "link": "/product/dkp-14806681/"
+    },
+    {
+      "id": "14841596",
+      "title": "بالش ناریکو مدل نوزاد طرح دختر کد 04595",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/b9fd7334a2cebbc8971947f06cb6f7f8623da493_1710491703.jpg",
+      "price": 0,
+      "oldPrice": null,
+      "discount": 0,
+      "category": "خانه و آشپزخانه",
+      "rank": 8,
+      "link": "/product/dkp-14841596/"
+    },
+    {
+      "id": "15596098",
+      "title": "کوسن مدل فانتزی کد C392",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/197691a508a01766b7f0c35dccc8ee3075cf7a18_1716905123.jpg",
+      "price": 0,
+      "oldPrice": null,
+      "discount": 0,
+      "category": "خانه و آشپزخانه",
+      "rank": 9,
+      "link": "/product/dkp-15596098/"
+    },
+    {
+      "id": "15580413",
+      "title": "کوسن مدل کاکتوس کد C179",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/0c591321d30f7c0708cdfcc86730e414f7d3878c_1716795558.jpg",
+      "price": 0,
+      "oldPrice": null,
+      "discount": 0,
+      "category": "خانه و آشپزخانه",
+      "rank": 10,
+      "link": "/product/dkp-15580413/"
+    },
+    {
+      "id": "15335215",
+      "title": "کوسن ناریکو مدل فانتزی کد 04729",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/dd111893d2d7dd9a09e2d97ad035166a0b9a6574_1714632025.jpg",
+      "price": 0,
+      "oldPrice": null,
+      "discount": 0,
+      "category": "خانه و آشپزخانه",
+      "rank": 11,
+      "link": "/product/dkp-15335215/"
+    },
+    {
+      "id": "15183995",
+      "title": "کوسن مدل جین کد C199",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/b222b8be66614cef5dbd6a85b4f8b2f7cce50ed3_1713630704.jpg",
+      "price": 0,
+      "oldPrice": null,
+      "discount": 0,
+      "category": "خانه و آشپزخانه",
+      "rank": 12,
+      "link": "/product/dkp-15183995/"
+    },
+    {
+      "id": "17079159",
+      "title": "کوسن مدل گل فانتزی کد DKK751",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/cf84d57fe3141da36267c7eea6d1e12f7014a13f_1729367014.jpg",
+      "price": 0,
+      "oldPrice": null,
+      "discount": 0,
+      "category": "خانه و آشپزخانه",
+      "rank": 13,
+      "link": "/product/dkp-17079159/"
+    },
+    {
+      "id": "15192299",
+      "title": "کوسن مدل گل و پرنده کد C203",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/f066727da6db9d8205d0648779cf1ce58738fb83_1713676357.jpg",
+      "price": 0,
+      "oldPrice": null,
+      "discount": 0,
+      "category": "خانه و آشپزخانه",
+      "rank": 14,
+      "link": "/product/dkp-15192299/"
+    },
+    {
+      "id": "15180695",
+      "title": "کوسن مدل فانتزی کد C165",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/c739f650241b3e1400ec7032b82d70c638c96799_1713616419.jpg",
+      "price": 0,
+      "oldPrice": null,
+      "discount": 0,
+      "category": "خانه و آشپزخانه",
+      "rank": 15,
+      "link": "/product/dkp-15180695/"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
