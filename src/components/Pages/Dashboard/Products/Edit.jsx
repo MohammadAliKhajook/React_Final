@@ -1,3 +1,4 @@
+import { API_URL } from "../../../../api.js";
 import { useEffect, useState } from "react";
 import { useParams, useNavigate } from "react-router-dom";
 import axios from "axios";
@@ -12,7 +13,7 @@ const Edit = () => {
   useEffect(() => {
     const fetchProduct = async () => {
       try {
-        const res = await axios.get(`http://localhost:3000/products/${id}`);
+        const res = await axios.get(`${API_URL}/products/${id}`);
 
         setProduct(res.data);
       } catch (error) {
@@ -25,7 +26,7 @@ const Edit = () => {
 
   const updateProduct = async (data) => {
     try {
-      await axios.patch(`http://localhost:3000/products/${id}`, data);
+      await axios.patch(`${API_URL}/products/${id}`, data);
 
       navigate(`/dashboard/products/${id}`);
     } catch (error) {

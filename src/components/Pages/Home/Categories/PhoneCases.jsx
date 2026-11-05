@@ -1,10 +1,11 @@
+import { API_URL } from "../../../../api.js";
 import { FaChevronLeft } from "react-icons/fa";
 import ProductSlider from "../Slider/ProductSlider";
 import useFetch from "../../Hooks/Hooks";
 
 const PhoneCases = () => {
   const { data: phoneCases, loading } = useFetch(
-    "http://localhost:3000/phonecover",
+    `${API_URL}/phonecover`,
   );
 
   const formatPrice = (price) => {

@@ -1,9 +1,10 @@
+import { API_URL } from "../../../../api.js";
 import { useRef } from "react";
 import { FaChevronLeft, FaChevronRight } from "react-icons/fa";
 import useFetch from "../../Hooks/Hooks";
 
 const BestSelling = () => {
-  const { data, loading } = useFetch("http://localhost:3000/bestselling");
+  const { data, loading } = useFetch(`${API_URL}/bestselling`);
 
   const sliderRef = useRef(null);
 

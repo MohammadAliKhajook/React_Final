@@ -1,3 +1,4 @@
+import { API_URL } from "../../../../api.js";
 import { useEffect, useRef, useState } from "react";
 import { FaChevronLeft, FaChevronRight } from "react-icons/fa";
 
@@ -13,7 +14,7 @@ const AmazingOffers = () => {
 
   const fetchProducts = async () => {
     try {
-      const response = await fetch("http://localhost:3000/amazingOffers");
+      const response = await fetch(`${API_URL}/amazingOffers`);
       const data = await response.json();
       setProducts(data);
     } catch (error) {

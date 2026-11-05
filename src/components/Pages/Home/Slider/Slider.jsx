@@ -1,3 +1,4 @@
+import { API_URL } from "../../../../api.js";
 import { useEffect, useState } from "react";
 
 const Slider = () => {
@@ -6,7 +7,7 @@ const Slider = () => {
 
   const fetchSlides = async () => {
     try {
-      const response = await fetch("http://localhost:3000/slider");
+      const response = await fetch(`${API_URL}/slider`);
       const data = await response.json();
 
       setSlides(data);

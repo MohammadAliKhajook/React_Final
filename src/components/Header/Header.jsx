@@ -1,3 +1,4 @@
+import { API_URL } from "../../api.js";
 import { useEffect, useState } from "react";
 import {
   FaMobileAlt,
@@ -41,7 +42,7 @@ const Header = () => {
   useEffect(() => {
     const fetchMenu = async () => {
       try {
-        const response = await fetch("http://localhost:3000/menu");
+        const response = await fetch(`${API_URL}/menu`);
         const data = await response.json();
         setMenu(data);
       } catch (error) {
